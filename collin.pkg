@@ -1,0 +1,11 @@
+v 1
+d {bf:Philip B. Ender
+      UCLA Department of Education
+      UCLA, Academic Technology Services
+      ender@ucla.edu}
+d collin 	Collinearity diagnosis
+d Distribution-Date: 20240601
+d Support; ender@ucla.edu
+f collin.ado
+f collin.hlp
+

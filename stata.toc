@@ -1,0 +1,10 @@
+v 1
+d {bf:Philip B. Ender
+      UCLA Department of Education
+      UCLA, Academic Technology Services
+      ender@ucla.edu }
+d collin 	Collinearity diagnosis
+d Evaluate the collinearity value.
+f collin.ado
+f collin.hlp
+
